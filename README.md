@@ -95,9 +95,13 @@ storing and retrieving data via phpMyAdmin
 
 
 SCREENSHOTS OF THE WEBSITE HAVE BEEN ATTACHED IN THE 'images' FOLDER!
-home--> Images of the Home page
-about--> Images of the About section
-package--> Images of the Packages section
-book--> Images of the Booking section
-book_db--> Image of the Database
 
+home--> Images of the Home page.
+
+about--> Images of the About section.
+
+package--> Images of the Packages section.
+
+book--> Images of the Booking section.
+
+book_db--> Image of the Database.
