@@ -93,4 +93,5 @@ storing and retrieving data via phpMyAdmin
 
 ----------------------------------------------------------------------------------------------------------
 
-SCREENSHOTS OF THE WEBSITE HAVE BEEN ATTACHED IN THE 'project ss' FOLDER!
+
+SCREENSHOTS OF THE WEBSITE HAVE BEEN ATTACHED IN THE 'images' FOLDER!
